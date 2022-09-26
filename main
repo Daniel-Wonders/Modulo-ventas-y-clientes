@@ -1,2 +1,24 @@
-print("Hola mundo")
+usr/bin/python
 
+import tkinter as tk
+ventana = tk.Tk()
+
+
+
+
+titulo=tk.Label(text="Bienvenido a ventas y clientes!", foreground="BLUE", size=20)
+titulo.place(x=50,y=20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ventana.mainloop()
